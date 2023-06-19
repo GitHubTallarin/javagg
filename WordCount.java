@@ -1,7 +1,7 @@
 
 
 
-package com.mycompany.mavenproject1;
+package org.apache.beam.examples;
 
 
 import com.fasterxml.jackson.core.exc.StreamReadException;
@@ -38,8 +38,8 @@ import org.apache.beam.sdk.values.KV;
 import org.apache.beam.sdk.values.PCollection;
 //import org.apache.commons.io.IOUtils;
 import org.json.JSONObject;
-import com.mycompany.mavenproject1.JsonUrlReader2;
-import com.mycompany.mavenproject1.Sismos;
+import package org.apache.beam.examples.JsonUrlReader2;
+import package org.apache.beam.examples.Sismos;
 
 
 public class WordCount {
