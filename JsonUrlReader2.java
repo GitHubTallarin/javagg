@@ -14,7 +14,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.Iterator;
-import package org.apache.beam.examples.Sismos;
+import org.apache.beam.examples.Sismos;
 
 public class JsonUrlReader2 {
 
