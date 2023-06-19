@@ -9,7 +9,6 @@ import com.fasterxml.jackson.core.exc.StreamReadException;
 import com.fasterxml.jackson.databind.DatabindException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.mycompany.mavenproject1.Aire;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
