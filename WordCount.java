@@ -38,8 +38,8 @@ import org.apache.beam.sdk.values.KV;
 import org.apache.beam.sdk.values.PCollection;
 //import org.apache.commons.io.IOUtils;
 import org.json.JSONObject;
-import package org.apache.beam.examples.JsonUrlReader2;
-import package org.apache.beam.examples.Sismos;
+import  org.apache.beam.examples.JsonUrlReader2;
+import  org.apache.beam.examples.Sismos;
 
 
 public class WordCount {
